@@ -161,8 +161,4 @@ terraform test                    # Run all .tftest.hcl files
 ```
 
 
-### Terraform with GitHub
-[Get it here](https://github.com/Amitabh-DevOps/online_shop/tree/github-action/.github/workflows)
 
-### Terraform to EKS
-[Get it here](https://github.com/DevMadhup/Springboot-BankApp/tree/DevOps/Terraform/EKS-Deployment)
